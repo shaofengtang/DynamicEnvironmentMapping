@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\code\dynamicenvironmentmapping\dynamicenvironmentmapping\dynamicenvironmentmapping\main.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\dynamicenvironmentmapping\dynamicenvironmentmapping\dynamicenvironmentmapping\main.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\dynamicenvironmentmapping\dynamicenvironmentmapping\dynamicenvironmentmapping\main.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\dynamicenvironmentmapping\dynamicenvironmentmapping\dynamicenvironmentmapping\main.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\dynamicenvironmentmapping\dynamicenvironmentmapping\dynamicenvironmentmapping\main.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\dynamicenvironmentmapping\dynamicenvironmentmapping\dynamicenvironmentmapping\main.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\dynamicenvironmentmapping\dynamicenvironmentmapping\dynamicenvironmentmapping\main.cpp(119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\code\dynamicenvironmentmapping\dynamicenvironmentmapping\dynamicenvironmentmapping\main.cpp(430): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DynamicEnvironmentMapping.vcxproj -> D:\code\DynamicEnvironmentMapping\DynamicEnvironmentMapping\Debug\DynamicEnvironmentMapping.exe
+  DynamicEnvironmentMapping.vcxproj -> D:\code\DynamicEnvironmentMapping\DynamicEnvironmentMapping\Debug\DynamicEnvironmentMapping.pdb (Full PDB)
